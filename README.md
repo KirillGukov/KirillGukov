@@ -44,16 +44,19 @@
 
 ## 📊 GitHub Статистика
 
+### 🎯 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
 </p>
 
+### 📘 Топ языков
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+### 🏆 Достижения
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=onedark&column=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=gruvbox&column=5" alt="Trophies" />
 </p>
 
 ---
