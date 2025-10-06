@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/CI%2FCD-3E8ACC?style=for-the-badge&logo=githubactions&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Pydantic-2FADAC?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37??style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 ---
 
