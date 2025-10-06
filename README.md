@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
@@ -50,17 +50,17 @@
 
 ### 🎯 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=gruvbox&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
 </p>
 
 ### 📘 Топ языков
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🏆 Достижения
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=gruvbox&column=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=tokyonight&column=5" alt="Trophies" />
 </p>
 
 ---
