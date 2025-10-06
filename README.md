@@ -66,4 +66,16 @@
 
 ---
 
-> ⚡ Всегда открыт для новых возможностей и интересных проектов. Если вы ищете ответственного junior backend-разработчика — давайте свяжемся!
+<!-- Общая статистика -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=radical)](https://github.com/KirillGukov)
+
+<!-- Топ языков, которыми ты пользуешься на GitHub -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=radical)](https://github.com/KirillGukov)
+
+<!-- Активность за последние 31 день -->
+![Activity Graph](https://raw.githubusercontent.com/KirillGukov/KirillGukov/master/activity-graph.svg)
+
+<!-- Профиль-трофеи/ранги -->
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=onedark&column=5)](https://github.com/KirillGukov)
+
+> ⚡ Всегда открыт для новых возможностей и интересных проектов. Если вы ищете ответственного backend-разработчика — давайте свяжемся!
