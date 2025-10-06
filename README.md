@@ -26,12 +26,14 @@
 </p>
 
 ### 🛠 Веб-технологии и инструменты: 
-<p> 
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" /> 
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### ⚙️ Дополнительно: 
@@ -41,8 +43,6 @@
   <img src="https://img.shields.io/badge/CI%2FCD-3E8ACC?style=for-the-badge&logo=githubactions&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Pydantic-2FADAC?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37??style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 ---
 
@@ -50,12 +50,12 @@
 
 ### 🎯 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=gruvbox&count_private=true&hide=issues" alt="GitHub Stats" />
 </p>
 
 ### 📘 Топ языков
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ### 🏆 Достижения
