@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я Кирилл 👋</h1>
 
 <p align="center">
-  🧑‍💻 Python Backend Developer | 28 лет
+  🧑‍💻 QA Engineer | 28 лет
 </p>
 
 ---
