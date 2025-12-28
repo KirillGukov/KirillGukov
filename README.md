@@ -1,66 +1,73 @@
 <h1 align="center">Привет! Я Кирилл 👋</h1>
 
 <p align="center">
-  🧑‍💻 QA Engineer | 28 лет
+  🧪 QA Engineer | 28 лет
 </p>
 
 ---
 
 ## 🚀 Обо мне
 
-Я — backend-разработчик с фокусом на Python и современный веб-стек. Пишу на **Python**, использую **Django** и **FastAPI** для создания надёжных и масштабируемых API и веб-приложений. Имею опыт работы с базами данных, контейнеризацией, настройкой CI/CD и тестированием.
+Я — **QA Engineer**, специализируюсь на обеспечении качества веб-приложений и API.  
+Работаю с **ручным и автоматизированным тестированием**, тестированием REST API, баз данных и backend-логики.
 
-Ищу команду, в которой смогу расти и приносить пользу.
+Имею опыт:
+- функционального, регрессионного и интеграционного тестирования  
+- написания автотестов на **Python (Pytest)**  
+- тестирования API с помощью **Postman**  
+- работы с логами, SQL-запросами и CI/CD  
+
+Понимаю, как устроен backend, что позволяет эффективно находить и локализовывать дефекты.
+
+Ищу команду, в которой смогу развиваться как QA и повышать качество продукта.
 
 ---
 
-## 💼 Стек технологий
+## 💼 QA-стек технологий
 
-### 🧠 Языки и фреймворки
+### 🧠 Языки и автоматизация
 
-<p> 
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠 Веб-технологии и инструменты: 
+### 🧪 Тестирование и инструменты
+
 <p>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+</p>
+
+### 🗄 Базы данных и backend
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### ⚙️ Инфраструктура и прочее
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### ⚙️ Дополнительно: 
-<p> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CI%2FCD-3E8ACC?style=for-the-badge&logo=githubactions&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pydantic-2FADAC?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 ---
 
 ## 📊 GitHub Статистика
 
-### 🎯 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillGukov&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
 </p>
 
-### 📘 Топ языков
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-### 🏆 Достижения
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KirillGukov&theme=tokyonight&column=5" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGukov&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -74,4 +81,4 @@
 
 ---
 
-> ⚡ Открыт к интересным предложениям и новым вызовам. Буду рад поработать над реальными задачами и развиваться вместе с вашей командой!
+> ⚡ Открыт к позициям QA Engineer (Manual / Automation). Интересны продукты с реальными пользователями и сложной backend-логикой.
